@@ -1,8 +1,8 @@
 # FAQ
 
-**Is AI Image Studio standalone?**
-No — it's an add-on for **AI DevKit**. Install and configure the base package (Lite or higher)
-first, then add Image Studio.
+**Do I need to install AI DevKit first?**
+No. AI Image Studio is built on AI DevKit, but the **AI DevKit core is bundled with the package** —
+importing AI Image Studio is all you need. Just configure a provider + API key.
 
 **Do I need a new API key?**
 No. Image Studio shares provider configuration with the AI DevKit core. Add keys for the extra

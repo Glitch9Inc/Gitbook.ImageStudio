@@ -9,9 +9,10 @@ switching between external AI tools, image editors, background removers, and Uni
 create, edit, clean up, and save image assets in one place — and the results land straight in your
 project folder.
 
-It is an **add-on for [AI DevKit](https://assetstore.unity.com/packages/tools/generative-ai/ai-dev-kit-pro-281225)**.
-It reuses the base package's Unified API, API keys, and model library, and adds a dedicated editor
-window, extra providers, new request types, and Scene View / Project window shortcuts.
+It's built on **[AI DevKit](https://assetstore.unity.com/packages/tools/generative-ai/ai-dev-kit-pro-281225)**
+and reuses its Unified API, API keys, and model library — adding a dedicated editor window, extra
+providers, new request types, and Scene View / Project window shortcuts. **The AI DevKit core is
+included in the package**, so you don't need to install AI DevKit separately.
 
 > 📷 **Image — `hero.png`:** The AI Image Studio window with a generated image in the preview, the
 > operation tabs visible, and the side panel showing prompt + settings.
@@ -41,9 +42,10 @@ prototype textures, marketing mockups, and placeholder art.
 
 ## Requirements
 
-* **AI DevKit** base package (Lite or higher) installed and configured
 * Unity 6 (6000.x)
 * An AI provider + API key (see [Providers & API Keys](setup/providers.md))
+
+> The **AI DevKit core is bundled** with AI Image Studio — no separate AI DevKit install required.
 
 ## Next steps
 

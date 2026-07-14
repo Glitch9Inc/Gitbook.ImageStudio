@@ -2,8 +2,8 @@
 
 ## The AI Image Studio menu doesn't appear
 
-* Confirm the **AI DevKit** base package is installed and compiling.
-* Confirm the Image Studio add-on imported without compile errors (check the Console).
+* Confirm the package imported without compile errors (check the Console). The AI DevKit core is
+  bundled, so you don't install it separately.
 * The window lives at `Window > AI Image Studio > AI Image Studio`.
 
 ## Generate button is disabled
