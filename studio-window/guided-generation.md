@@ -2,8 +2,7 @@
 
 Generate new images that follow a **reference image** — its lines, its structure, or its style.
 
-> 📷 **Image — `guided-generation.png`:** The Guided Generation tab with a sketch reference on the
-> left and the generated result on the right.
+<figure><img src="../.gitbook/assets/guided-generation.png" alt=""><figcaption></figcaption></figure>
 
 All guided operations take a source/reference image; the prompt is usually optional and used to add
 detail or direction.

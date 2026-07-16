@@ -7,8 +7,7 @@ API key.
 
 `Window > AI Image Studio > Preferences` (Unity Project Settings).
 
-> 📷 **Image — `provider-settings.png`:** The AI Image Studio Preferences page with the provider +
-> API key + model fields.
+<figure><img src="../.gitbook/assets/provider-settings.png" alt=""><figcaption></figcaption></figure>
 
 AI Image Studio **shares provider configuration with the AI DevKit core**, so keys you already set
 for the base package are reused here.

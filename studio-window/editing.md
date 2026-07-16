@@ -2,8 +2,7 @@
 
 Change an existing image — with or without a manual mask.
 
-> 📷 **Image — `editing.png`:** The Editing tab mid-inpaint, with a painted mask over part of the
-> source image.
+<figure><img src="../.gitbook/assets/editing.png" alt=""><figcaption></figcaption></figure>
 
 All editing operations **require a source image**. Load one from your project, or reuse the last
 generated result.

@@ -2,7 +2,7 @@
 
 One-shot cleanup and enhancement operations. Each takes a **source image** and needs no prompt.
 
-> 📷 **Image — `utilities.png`:** A before/after of Remove Background on a character sprite.
+<figure><img src="../.gitbook/assets/utilities.png" alt=""><figcaption></figcaption></figure>
 
 ## Upscale
 

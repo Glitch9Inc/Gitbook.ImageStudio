@@ -9,8 +9,7 @@ Mask-based operations act only on the region you paint.
 * **Left-drag** — paint the mask.
 * **Right-drag** — erase the mask.
 
-> 📷 **Image — `mask-paint.png`:** The canvas with a red/white mask painted over part of the image,
-> and brush controls in the panel.
+<figure><img src="../.gitbook/assets/mask-paint.png" alt=""><figcaption></figcaption></figure>
 
 Paint over the area you want to change (Inpaint) or remove (Erase), then **Generate**. Keep masks a
 little larger than the target so edges blend; provider **Grow Mask** options (where supported) can
@@ -24,8 +23,7 @@ Outpaint adds new space around the image and generates content to fill it.
   extend.
 * Optionally add a prompt to steer what appears in the new area.
 
-> 📷 **Image — `outpaint-handles.png`:** The source image centered with expansion handles dragged
-> outward on one side, showing the area to be generated.
+<figure><img src="../.gitbook/assets/outpaint-handles.png" alt=""><figcaption></figcaption></figure>
 
 ## Live status
 

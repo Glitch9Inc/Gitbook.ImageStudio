@@ -5,8 +5,7 @@ Open it with `Window > AI Image Studio > AI Image Studio`.
 The window is the hub for every operation — generate, edit, guide, and clean up images, then save
 them into your project.
 
-> 📷 **Image — `window-layout.png`:** The AI Image Studio window with callout labels on the
-> operation tabs, the canvas/preview, and the side panel (prompt + settings + generate).
+<figure><img src="../.gitbook/assets/window-layout.png" alt=""><figcaption></figcaption></figure>
 
 ## Window layout
 

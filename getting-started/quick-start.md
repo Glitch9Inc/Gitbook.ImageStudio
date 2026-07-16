@@ -7,8 +7,7 @@ from code.
 
 `Window > AI Image Studio > AI Image Studio`
 
-> 📷 **Image — `quickstart-window.png`:** The Unity `Window` menu open with `AI Image Studio > AI
-> Image Studio` highlighted, next to the opened window.
+<figure><img src="../.gitbook/assets/quickstart-window.png" alt=""><figcaption></figcaption></figure>
 
 Make sure AI DevKit has a provider + API key configured first — see
 [Providers & API Keys](../setup/providers.md).

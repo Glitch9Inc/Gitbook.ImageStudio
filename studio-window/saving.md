@@ -18,8 +18,7 @@ Inpaint, Outpaint, object edits, Upscale, Remove Background, and Replace Backgro
 * **Overwrite the original** asset, or
 * **Save As** a new file.
 
-> 📷 **Image — `save-dialog.png`:** The before/after comparison dialog with **Overwrite** and **Save
-> As** buttons.
+<figure><img src="../.gitbook/assets/save-dialog.png" alt=""><figcaption></figcaption></figure>
 
 ## Iterate on the result
 

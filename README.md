@@ -14,8 +14,7 @@ and reuses its Unified API, API keys, and model library — adding a dedicated e
 providers, new request types, and Scene View / Project window shortcuts. **The AI DevKit core is
 included in the package**, so you don't need to install AI DevKit separately.
 
-> 📷 **Image — `hero.png`:** The AI Image Studio window with a generated image in the preview, the
-> operation tabs visible, and the side panel showing prompt + settings.
+<figure><img src=".gitbook/assets/hero.png" alt=""><figcaption></figcaption></figure>
 
 ## Two ways to use it
 

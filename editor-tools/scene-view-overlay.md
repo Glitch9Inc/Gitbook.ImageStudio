@@ -3,8 +3,7 @@
 AI Image Studio adds an **AI Image Studio** overlay to the Unity Scene View so you can act on the
 selected object's image without opening the window.
 
-> 📷 **Image — `scene-view-overlay.png`:** The Scene View with the AI Image Studio overlay showing
-> Generate / Edit / Upscale / Apply Style / Remove BG buttons, and a sprite selected.
+<figure><img src="../.gitbook/assets/scene-view-overlay.png" alt=""><figcaption></figcaption></figure>
 
 ## Supported objects
 

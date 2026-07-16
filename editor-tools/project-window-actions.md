@@ -2,8 +2,7 @@
 
 Right-click in the Project window to generate and edit images without opening the studio.
 
-> 📷 **Image — `project-context-menu.png`:** The Project window right-click menu showing **Generate
-> Image with AI** and the **Edit Image with AI** submenu on a selected texture.
+<figure><img src="../.gitbook/assets/project-context-menu.png" alt=""><figcaption></figcaption></figure>
 
 ## Generate
 

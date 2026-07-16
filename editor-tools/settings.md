@@ -2,8 +2,7 @@
 
 Open with `Window > AI Image Studio > Preferences` (Unity Project Settings).
 
-> 📷 **Image — `settings.png`:** The AI Image Studio Preferences page with provider/model fields and
-> the Scene View button toggles.
+<figure><img src="../.gitbook/assets/settings.png" alt=""><figcaption></figcaption></figure>
 
 ## What you can configure
 

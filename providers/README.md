@@ -9,8 +9,7 @@ They register as provider families in the **same Unified API workflow**
 (`SetModel(...).ExecuteAsync()`) — no separate SDK or code path. In the editor, pick one of their
 models like any other; in code, `SetModel(...)` with the model you want.
 
-> 📷 **Image — `provider-options.png`:** The side panel showing provider-specific options (Style
-> Preset, Inference Steps, …) for a Stability model.
+<figure><img src="../.gitbook/assets/provider-options.png" alt=""><figcaption></figcaption></figure>
 
 ## Provider-specific options
 

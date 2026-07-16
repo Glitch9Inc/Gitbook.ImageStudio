@@ -2,8 +2,7 @@
 
 Create new images from a text prompt or from an existing image.
 
-> 📷 **Image — `generation.png`:** The Generation tab with a prompt entered and a generated result
-> in the preview.
+<figure><img src="../.gitbook/assets/generation.png" alt=""><figcaption></figcaption></figure>
 
 ## Text-to-Image
 
